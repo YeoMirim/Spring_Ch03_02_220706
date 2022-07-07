@@ -1,6 +1,6 @@
 package com.mirim.test;
 
-public class Calculator {
+public class Calculator {	// 사칙연산 가능한 class
 
 	
 	public void add(int num1, int num2) {
